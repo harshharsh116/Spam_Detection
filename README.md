@@ -1,5 +1,3 @@
-Got it — you want a short, clean GitHub README, not a detailed documentation-style one.
-
 📱 Spam SMS Detection
 
 A simple NLP and Machine Learning project that detects whether an SMS message is Spam or Ham.
